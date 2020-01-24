@@ -1,3 +1,5 @@
+#Run this file
+
 import pygame
 import random
 import sys
